@@ -10,7 +10,7 @@ A real-time chat application with WebSockets and REST integrations.
 docker compose up -d
 ```
 
-### 3. Run the API:
+### 2. Run the API:
 
 ```
 cd api
